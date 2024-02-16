@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-bandit/Bandit 7 a 8.md",
+                "file": "retos-bandit/Bandit 9 a 10.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-bandit/Bandit 7 a 8.md",
+                "file": "retos-bandit/Bandit 9 a 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-bandit/Bandit 7 a 8.md",
+                "file": "retos-bandit/Bandit 9 a 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-bandit/Bandit 7 a 8.md"
+                "file": "retos-bandit/Bandit 9 a 10.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "dd71e452f24cd951",
   "lastOpenFiles": [
-    "retos-bandit/Bandit 6 a 7.md",
     "retos-bandit/Bandit 7 a 8.md",
+    "retos-bandit/Bandit 8 a 9.md",
+    "retos-bandit/Bandit 9 a 10.md",
+    "retos-bandit/Bandit 6 a 7.md",
     "retos-bandit/Bandit 5 a 6.md",
     "retos-bandit/Bandit 4 a 5.md",
     "retos-bandit/Bandit 3 a 4.md",
