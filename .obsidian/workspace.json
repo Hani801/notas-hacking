@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f62ef9b78324b863",
+            "id": "5123a83a53c8c5dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-bandit/Nivel 17 al 18.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "129b1e39fd299d01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/Nivel 21 al 22.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7de99ea6202e23a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/Nivel 11 al 12.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5feb4eb536b7c167",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/Nivel 21 al 22.md",
+                "file": "retos-bandit/Nivel 32 al 33.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Example",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -123,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-bandit/Nivel 21 al 22.md",
+                "file": "retos-bandit/Nivel 32 al 33.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-bandit/Nivel 21 al 22.md",
+                "file": "retos-bandit/Nivel 32 al 33.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-bandit/Nivel 21 al 22.md"
+                "file": "retos-bandit/Nivel 32 al 33.md"
               }
             }
           }
@@ -176,44 +138,47 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:Crear nuevo lienzo": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo canvas": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "eb0a1cdf4b2764de",
+  "active": "5123a83a53c8c5dd",
   "lastOpenFiles": [
-    "retos-bandit/Nivel 20 al 21.md",
-    "retos-bandit/Nivel 21 al 22.md",
-    "retos-bandit/Nivel 19 al 20.md",
-    "retos-bandit/Nivel 18 al 19.md",
-    "retos-bandit/Nivel 17 al 18.md",
-    "retos-bandit/Nivel 16 al 17.md",
-    "retos-bandit/Nivel 10 al 11.md",
-    "retos-bandit/Nivel 15 al 16.md",
-    "retos-bandit/Bandit 6 a 7.md",
-    "retos-bandit/notas/README.md",
-    "retos-bandit/Sin título.md",
-    "retos-bandit/Nivel 12 al 13.md",
-    "retos-bandit/Nivel 11 al 12.md",
-    "retos-bandit/Nivel 14 al 15.md",
-    "retos-bandit/Nivel 13 al 14.md",
-    "notas/Sin título.md",
-    "Sin título.md",
-    "retos-bandit/notas",
-    "Welcome.md",
-    "Sin título 1.md",
-    "retos-bandit/Bandit 9 a 10.md",
+    "retos-bandit/Nivel 31 al 32.md",
+    "retos-bandit/Nivel 30 al 31.md",
+    "retos-bandit/Nivel 29 al 30.md",
+    "retos-bandit/Nivel 28 al 29.md",
+    "retos-bandit/Nivel 27 al 28.md",
+    "retos-bandit/Nivel 26 al 27.md",
+    "retos-bandit/Nivel 25 al 26.md",
+    "retos-bandit/Nivel 24 al 25.md",
+    "retos-bandit/Nivel 32 al 33.md",
+    "retos-bandit/Nivel 33 al 34.md",
+    "Pico CTF/Parcial 1/Warmed Up.md",
+    "Pico CTF/Parcial 1/2Warm.md",
+    "Pico CTF/Parcial 1/Wave a flag.md",
+    "Pico CTF/Parcial 1/Lets Warm Up.md",
+    "Pico CTF/Parcial 1/Magikarp Ground Mission.md",
+    "Pico CTF/Parcial 1/Tab, Tab, Attack.md",
+    "Pico CTF/Parcial 1/Static ain't always noise.md",
+    "Pico CTF/Parcial 1/Nice netcad.md",
+    "Pico CTF/Parcial 1/Sin títuloStatic ain't always noise.md",
+    "Pico CTF/Parcial 1/Obedient Cat.md",
+    "Pico CTF/Parcial 1",
+    "Sin título",
+    "Pico CTF",
     "retos-bandit/Sin título",
-    "retos-bandit/Bandit 7 a 8.md",
-    "retos-bandit/Bandit 8 a 9.md",
-    "retos-bandit/Bandit 5 a 6.md",
-    "retos-bandit/Bandit 4 a 5.md",
-    "retos-bandit/Bandit 3 a 4.md",
-    "retos-bandit/Bandit 2 a 3.md",
+    "retos-bandit/Nivel 23 al 24.md",
+    "retos-bandit/Nivel 22 al 23.md",
+    "retos-bandit/Nivel 24 al 23.md",
+    "Nivel 25 al 26.md",
+    "retos-bandit/Nivel 16 al 17.md",
+    "retos-bandit/Nivel 21 al 22.md",
+    "retos-bandit/notas",
     "retos-bandit"
   ]
 }
