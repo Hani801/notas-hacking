@@ -3,5 +3,5 @@ Kishor Balan tipped us off that the following code may need inspection: `https:/
 ## Solución
 Insepcionar el archivo html
 ## Notas
-A un ejecutable se le pueden pasar argumentos
+
 ## Referencias

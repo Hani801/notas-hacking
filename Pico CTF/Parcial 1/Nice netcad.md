@@ -47,6 +47,6 @@ haniara-picoctf@webshell:~$ nc mercury.picoctf.net 7449
 picoCTF{g00d_k1tty!_n1c3_k1tty!_f2d7cafa}
 Fuimos al sitio de cyberchef y sacamos la formula
 ## Notas
-A un ejecutable se le pueden pasar argumentos
+
 ## Referencias
 https://gchq.github.io/CyberChef/

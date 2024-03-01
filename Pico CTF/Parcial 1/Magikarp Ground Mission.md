@@ -25,5 +25,5 @@ ctf-player@pico-chall$ cat 3of3.flag.txt
 
 picoCTF{xxsh_0ut_0f_\/\/4t3r_3ca613a1}
 ## Notas
-A un ejecutable se le pueden pasar argumentos
+
 ## Referencias

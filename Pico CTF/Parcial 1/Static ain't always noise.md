@@ -144,5 +144,5 @@ haniara-picoctf@webshell:~$ cat static.ltdis.strings.txt
    196e .comment
 
 ## Notas
-A un ejecutable se le pueden pasar argumentos
+
 ## Referencias

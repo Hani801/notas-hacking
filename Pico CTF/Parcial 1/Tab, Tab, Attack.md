@@ -118,5 +118,5 @@ drwxr-xr-x 1 hani06 hani06 4096 Mar 15  2021 ..
 hani06@DESKTOP-4NE4RTQ:~/picosCTF/Addadshashanammu/Almurbalarammi/Ashalmimilkala/Assurnabitashpi/Maelkashishi/Onnissiralis/Ularradallaku$ ./fang-of-haynekhtnamet
 *ZAP!* picoCTF{l3v3l_up!_t4k3_4_r35t!_6f332f10}
 ## Notas
-A un ejecutable se le pueden pasar argumentos
+
 ## Referencias

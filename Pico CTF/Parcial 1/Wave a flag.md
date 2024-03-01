@@ -11,5 +11,5 @@ Hello user! Pass me a -h to learn what I can do!
 haniara-picoctf@webshell:~$ ./warm -h
 Oh, help? I actually don't do much, but I do have this flag here: picoCTF{b1scu1ts_4nd_gr4vy_616f7182}
 ## Notas
-A un ejecutable se le pueden pasar argumentos
+
 ## Referencias
