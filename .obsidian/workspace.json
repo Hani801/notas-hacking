@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pico CTF/Parcial 1/what's a net cat.md",
+                "file": "Retos pico P2/JaWT Scratchpad.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pico CTF/Parcial 1/what's a net cat.md",
+                "file": "Retos pico P2/JaWT Scratchpad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pico CTF/Parcial 1/what's a net cat.md",
+                "file": "Retos pico P2/JaWT Scratchpad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pico CTF/Parcial 1/what's a net cat.md"
+                "file": "Retos pico P2/JaWT Scratchpad.md"
               }
             }
           }
@@ -148,6 +148,14 @@
   },
   "active": "5123a83a53c8c5dd",
   "lastOpenFiles": [
+    "Retos pico P2/Irish-Name-Repo 3.md",
+    "Retos pico P2/JaWT Scratchpad.md",
+    "Retos pico P2/Irish-Name-Repo 2.md",
+    "Retos pico P2/Irish-Name-Repo 1.md",
+    "Retos pico/where are the robots.md",
+    "Sin título.md",
+    "Retos pico P2",
+    "Pico CTF/Parcial 1/what's a net cat.md",
     "Pico CTF/Parcial 1/Wave a flag.md",
     "Pico CTF/Parcial 1/Warmed Up.md",
     "Pico CTF/Parcial 1/Tab, Tab, Attack.md",
@@ -167,14 +175,6 @@
     "Pico CTF/Parcial 1/fixme1.py.md",
     "Pico CTF/Parcial 1/First Grep.md",
     "Pico CTF/Parcial 1/convertme.py.md",
-    "Pico CTF/Parcial 1/Codebook.md",
-    "Pico CTF/Parcial 1/Based.md",
-    "Pico CTF/Parcial 1/2Warm.md",
-    "Pico CTF/Parcial 1/what's a net cat.md",
-    "Retos pico/Client-side-again.md",
-    "Retos pico/where are the robots.md",
-    "Retos pico/picobrowser.md",
-    "Sin título",
     "Pico CTF/Parcial 1",
     "Retos pico",
     "Pico CTF",
