@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos Forensic - Parte 1/Scavenger Hunt.md",
+                "file": "Retos Forensic - Parte 1/What Lies Within.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos Forensic - Parte 1/Scavenger Hunt.md",
+                "file": "Retos Forensic - Parte 1/What Lies Within.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos Forensic - Parte 1/Scavenger Hunt.md",
+                "file": "Retos Forensic - Parte 1/What Lies Within.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos Forensic - Parte 1/Scavenger Hunt.md"
+                "file": "Retos Forensic - Parte 1/What Lies Within.md"
               }
             }
           }
@@ -146,12 +146,16 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a4859b56995f6e52",
+  "active": "5123a83a53c8c5dd",
   "lastOpenFiles": [
-    "Retos Forensic - Parte 1/GET aHEAD.md",
-    "Retos Forensic - Parte 1/Scavenger Hunt.md",
-    "Retos Forensic - Parte 1/Cookies.md",
+    "Retos Forensic - Parte 1/So Meta.md",
+    "Retos Forensic - Parte 1/What Lies Within.md",
+    "Retos Forensic - Parte 1/shark on wire 1.md",
+    "Retos Forensic - Parte 1/extensions.md",
+    "Retos Forensic - Parte 1/Glory of the Garden.md",
+    "Pasted image 20240312142916.png",
     "Sin título.md",
+    "Sin título",
     "Retos pico P2/JaWT Scratchpad.md",
     "Retos Forensic - Parte 1",
     "Retos pico P2/Irish-Name-Repo 3.md",
@@ -174,8 +178,6 @@
     "Pico CTF/Parcial 1/Nice netcad.md",
     "Pico CTF/Parcial 1/Magikarp Ground Mission.md",
     "Pico CTF/Parcial 1/Lets Warm Up.md",
-    "Pico CTF/Parcial 1/Insp3ct0r.md",
-    "Pico CTF/Parcial 1/fixme2.py.md",
     "Pico CTF/Parcial 1",
     "Retos pico",
     "Pico CTF",
