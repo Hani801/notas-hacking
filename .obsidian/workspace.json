@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parcial 2/Parte 2/St3g0.md",
+                "file": "Retos Crypto - Parte 1/waves over lambda.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Parcial 2/Parte 2/St3g0.md",
+                "file": "Retos Crypto - Parte 1/waves over lambda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Parcial 2/Parte 2/St3g0.md",
+                "file": "Retos Crypto - Parte 1/waves over lambda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Parcial 2/Parte 2/St3g0.md"
+                "file": "Retos Crypto - Parte 1/waves over lambda.md"
               }
             }
           }
@@ -161,8 +161,18 @@
   },
   "active": "0fc6ca0dde28570d",
   "lastOpenFiles": [
-    "Parcial 2/Parte 2/Redaction gone wrong.md",
+    "Retos Crypto - Parte 1/Tapping.md",
+    "Retos Crypto - Parte 1/la cifra de.md",
+    "Retos Crypto - Parte 1/Easy1.md",
+    "Retos Crypto - Parte 1/caesar.md",
+    "Retos Crypto - Parte 1/The Numbers.md",
+    "Retos Crypto - Parte 1/13.md",
+    "Retos Crypto - Parte 1/waves over lambda.md",
+    "Retos Forensic - Parte 1/extensions.md",
+    "Retos Forensic - Parte 1/Corrupt.md",
     "Parcial 2/Parte 2/St3g0.md",
+    "Retos Crypto - Parte 1",
+    "Parcial 2/Parte 2/Redaction gone wrong.md",
     "Parcial 2/Parte 2/Wireshark doo dooo do doo....md",
     "Parcial 2/Parte 2/Lookey here.md",
     "Parcial 2/Parte 2/information.md",
@@ -176,27 +186,18 @@
     "Retos Forensic - Parte 1/like1000.md",
     "Retos Forensic - Parte 1/m00nwalk.md",
     "Retos Forensic - Parte 1/Glory of the Garden.md",
-    "Retos Forensic - Parte 1/extensions.md",
-    "Retos Forensic - Parte 1/Corrupt.md",
     "Parcial 2/Parte 1/information.md",
     "Parcial 2/Parte 1/Inspect HTML.md",
     "Parcial 2/Parte 1/Search source.md",
     "Parcial 2/Parte 1/Secrets.md",
     "Parcial 2/Parte 1/SQL Direct.md",
-    "Parcial 2/Parte 1/Forbidden Paths.md",
     "Pasted image 20240325191633.png",
-    "Parcial 2/Parte 1/Local Authority.md",
-    "Parcial 2/Parte 1/Roboto Sans.md",
     "Pasted image 20240325190829.png",
     "Pasted image 20240325190652.png",
-    "Retos pico/where are the robots.md",
-    "Parcial 2/Parte 1/Power Cookie.md",
     "Pasted image 20240325185746.png",
     "Parcial 2/Parte 2",
     "Parcial 2/Parte 1",
     "Pasted image 20240325184407.png",
-    "Retos pico P2/Irish-Name-Repo 1.md",
-    "Parcial 2/Parte 1/Includes.md",
     "Parcial 2",
     "Sin título.canvas",
     "Retos Forensic - Parte 1/Pasted image 20240313130457.png",
@@ -206,7 +207,6 @@
     "Sin título",
     "Retos Forensic - Parte 1",
     "Retos pico P2",
-    "Pico CTF/Parcial 1",
-    "Retos pico"
+    "Pico CTF/Parcial 1"
   ]
 }
