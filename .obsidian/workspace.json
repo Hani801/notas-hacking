@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos Cypto - Parte 2/rsa-pop-quiz.md",
+                "file": "Retos Crypto - Parte 3/Pixelated.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos Cypto - Parte 2/rsa-pop-quiz.md",
+                "file": "Retos Crypto - Parte 3/Pixelated.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos Cypto - Parte 2/rsa-pop-quiz.md",
+                "file": "Retos Crypto - Parte 3/Pixelated.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos Cypto - Parte 2/rsa-pop-quiz.md"
+                "file": "Retos Crypto - Parte 3/Pixelated.md"
               }
             }
           }
@@ -173,8 +173,15 @@
   },
   "active": "f2c07ee5ca9f169a",
   "lastOpenFiles": [
+    "Pasted image 20240417132351.png",
+    "Retos Crypto - Parte 3/ReadMyCert.md",
+    "Retos Crypto - Parte 3/Pixelated.md",
+    "Retos Crypto - Parte 3/HideToSee.md",
+    "Retos Crypto - Parte 3/basic-mod1.md",
+    "Retos Crypto - Parte 3/Mind your Ps and Qs.md",
     "Retos Cypto - Parte 2/miniRSA.md",
     "Retos Cypto - Parte 2/b00tl3gRSA2.md",
+    "Retos Crypto - Parte 3",
     "Retos Cypto - Parte 2/rsa-pop-quiz.md",
     "Retos Crypto - Parte 1/13.md",
     "Retos Cypto - Parte 2",
@@ -198,12 +205,6 @@
     "Pasted image 20240327172645.png",
     "Pasted image 20240327172630.png",
     "Retos Forensic - Parte 1/shark on wire 1.md",
-    "Retos Forensic - Parte 1/shark on wire 2.md",
-    "Retos Forensic - Parte 1/like1000.md",
-    "Retos Forensic - Parte 1/m00nwalk.md",
-    "Retos Forensic - Parte 1/Glory of the Garden.md",
-    "Parcial 2/Parte 1/information.md",
-    "Parcial 2/Parte 1/Inspect HTML.md",
     "Pasted image 20240325191633.png",
     "Pasted image 20240325190829.png",
     "Pasted image 20240325190652.png",
@@ -218,7 +219,6 @@
     "concurso",
     "Retos Forensic - Parte 3",
     "Sin título",
-    "Retos Forensic - Parte 1",
-    "Retos pico P2"
+    "Retos Forensic - Parte 1"
   ]
 }
