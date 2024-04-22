@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos Crypto - Parte 3/Pixelated.md",
+                "file": "Reversing - Parte 1/vault-door-5.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos Crypto - Parte 3/Pixelated.md",
+                "file": "Reversing - Parte 1/vault-door-5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos Crypto - Parte 3/Pixelated.md",
+                "file": "Reversing - Parte 1/vault-door-5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos Crypto - Parte 3/Pixelated.md"
+                "file": "Reversing - Parte 1/vault-door-5.md"
               }
             }
           }
@@ -173,9 +173,15 @@
   },
   "active": "f2c07ee5ca9f169a",
   "lastOpenFiles": [
+    "Reversing - Parte 1/vault-door-4.md",
+    "Reversing - Parte 1/vault-door-5.md",
+    "Reversing - Parte 1/vault-door-3.md",
+    "Reversing - Parte 1/vault-door-training.md",
+    "Reversing - Parte 1/vault-door-1.md",
+    "Retos Crypto - Parte 3/Pixelated.md",
+    "Reversing - Parte 1",
     "Pasted image 20240417132351.png",
     "Retos Crypto - Parte 3/ReadMyCert.md",
-    "Retos Crypto - Parte 3/Pixelated.md",
     "Retos Crypto - Parte 3/HideToSee.md",
     "Retos Crypto - Parte 3/basic-mod1.md",
     "Retos Crypto - Parte 3/Mind your Ps and Qs.md",
@@ -198,13 +204,9 @@
     "Parcial 2/Parte 2/Redaction gone wrong.md",
     "Parcial 2/Parte 2/Wireshark doo dooo do doo....md",
     "Parcial 2/Parte 2/Lookey here.md",
-    "Parcial 2/Parte 2/information.md",
-    "Parcial 2/Parte 2/Packets Primer.md",
     "Pasted image 20240328130906.png",
-    "Parcial 2/Parte 2/Enhance!.md",
     "Pasted image 20240327172645.png",
     "Pasted image 20240327172630.png",
-    "Retos Forensic - Parte 1/shark on wire 1.md",
     "Pasted image 20240325191633.png",
     "Pasted image 20240325190829.png",
     "Pasted image 20240325190652.png",
@@ -215,10 +217,8 @@
     "Parcial 2",
     "Sin título.canvas",
     "Retos Forensic - Parte 1/Pasted image 20240313130457.png",
-    "Retos Forensic - Parte 1/Pasted image 20240313134548.png",
     "concurso",
     "Retos Forensic - Parte 3",
-    "Sin título",
-    "Retos Forensic - Parte 1"
+    "Sin título"
   ]
 }
