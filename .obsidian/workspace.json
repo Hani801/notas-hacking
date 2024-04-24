@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reversing - Parte 1/vault-door-5.md",
+                "file": "Reversing - Parte 2/asm3.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reversing - Parte 1/vault-door-5.md",
+                "file": "Reversing - Parte 2/asm3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reversing - Parte 1/vault-door-5.md",
+                "file": "Reversing - Parte 2/asm3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reversing - Parte 1/vault-door-5.md"
+                "file": "Reversing - Parte 2/asm3.md"
               }
             }
           }
@@ -173,8 +173,13 @@
   },
   "active": "f2c07ee5ca9f169a",
   "lastOpenFiles": [
-    "Reversing - Parte 1/vault-door-4.md",
+    "Reversing - Parte 2/asm2.md",
+    "Reversing - Parte 2/asm1.md",
+    "Reversing - Parte 2/asm3.md",
+    "Pasted image 20240325184407.png",
     "Reversing - Parte 1/vault-door-5.md",
+    "Reversing - Parte 2",
+    "Reversing - Parte 1/vault-door-4.md",
     "Reversing - Parte 1/vault-door-3.md",
     "Reversing - Parte 1/vault-door-training.md",
     "Reversing - Parte 1/vault-door-1.md",
@@ -201,9 +206,6 @@
     "Retos Forensic - Parte 1/Corrupt.md",
     "Parcial 2/Parte 2/St3g0.md",
     "Retos Crypto - Parte 1",
-    "Parcial 2/Parte 2/Redaction gone wrong.md",
-    "Parcial 2/Parte 2/Wireshark doo dooo do doo....md",
-    "Parcial 2/Parte 2/Lookey here.md",
     "Pasted image 20240328130906.png",
     "Pasted image 20240327172645.png",
     "Pasted image 20240327172630.png",
@@ -213,12 +215,10 @@
     "Pasted image 20240325185746.png",
     "Parcial 2/Parte 2",
     "Parcial 2/Parte 1",
-    "Pasted image 20240325184407.png",
     "Parcial 2",
     "Sin título.canvas",
     "Retos Forensic - Parte 1/Pasted image 20240313130457.png",
     "concurso",
-    "Retos Forensic - Parte 3",
-    "Sin título"
+    "Retos Forensic - Parte 3"
   ]
 }
