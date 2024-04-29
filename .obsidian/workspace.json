@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reversing - Parte 2/asm3.md",
+                "file": "Reversing Parte 3/Need For Speed.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reversing - Parte 2/asm3.md",
+                "file": "Reversing Parte 3/Need For Speed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reversing - Parte 2/asm3.md",
+                "file": "Reversing Parte 3/Need For Speed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reversing - Parte 2/asm3.md"
+                "file": "Reversing Parte 3/Need For Speed.md"
               }
             }
           }
@@ -173,9 +173,16 @@
   },
   "active": "f2c07ee5ca9f169a",
   "lastOpenFiles": [
+    "Pasted image 20240429133556.png",
+    "Reversing Parte 3/reverse_cipher.md",
+    "Reversing Parte 3/Need For Speed.md",
+    "Reversing Parte 3/Sin título.md",
+    "Reversing Parte 3/GDB Test Drive.md",
+    "Pasted image 20240429124203.png",
+    "Reversing - Parte 2/asm3.md",
+    "Reversing Parte 3",
     "Reversing - Parte 2/asm2.md",
     "Reversing - Parte 2/asm1.md",
-    "Reversing - Parte 2/asm3.md",
     "Pasted image 20240325184407.png",
     "Reversing - Parte 1/vault-door-5.md",
     "Reversing - Parte 2",
@@ -200,11 +207,6 @@
     "Retos Crypto - Parte 1/la cifra de.md",
     "Retos Crypto - Parte 1/Easy1.md",
     "Retos Crypto - Parte 1/caesar.md",
-    "Retos Crypto - Parte 1/The Numbers.md",
-    "Retos Crypto - Parte 1/waves over lambda.md",
-    "Retos Forensic - Parte 1/extensions.md",
-    "Retos Forensic - Parte 1/Corrupt.md",
-    "Parcial 2/Parte 2/St3g0.md",
     "Retos Crypto - Parte 1",
     "Pasted image 20240328130906.png",
     "Pasted image 20240327172645.png",
@@ -217,8 +219,6 @@
     "Parcial 2/Parte 1",
     "Parcial 2",
     "Sin título.canvas",
-    "Retos Forensic - Parte 1/Pasted image 20240313130457.png",
-    "concurso",
-    "Retos Forensic - Parte 3"
+    "concurso"
   ]
 }
