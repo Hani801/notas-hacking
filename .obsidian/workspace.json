@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reversing Parte 3/Need For Speed.md",
+                "file": "Reversing Parte 3/Safe Opener 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reversing Parte 3/Need For Speed.md",
+                "file": "Reversing Parte 3/Safe Opener 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reversing Parte 3/Need For Speed.md",
+                "file": "Reversing Parte 3/Safe Opener 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reversing Parte 3/Need For Speed.md"
+                "file": "Reversing Parte 3/Safe Opener 2.md"
               }
             }
           }
@@ -173,10 +173,10 @@
   },
   "active": "f2c07ee5ca9f169a",
   "lastOpenFiles": [
-    "Pasted image 20240429133556.png",
     "Reversing Parte 3/reverse_cipher.md",
+    "Reversing Parte 3/Safe Opener 2.md",
     "Reversing Parte 3/Need For Speed.md",
-    "Reversing Parte 3/Sin título.md",
+    "Pasted image 20240429133556.png",
     "Reversing Parte 3/GDB Test Drive.md",
     "Pasted image 20240429124203.png",
     "Reversing - Parte 2/asm3.md",
@@ -214,7 +214,6 @@
     "Pasted image 20240325191633.png",
     "Pasted image 20240325190829.png",
     "Pasted image 20240325190652.png",
-    "Pasted image 20240325185746.png",
     "Parcial 2/Parte 2",
     "Parcial 2/Parte 1",
     "Parcial 2",
